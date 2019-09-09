@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "E:\mywork\schooltest\test_case\ddc.py", line 8, in <module>
+    import test01.login  #导入登录文件
+ImportError: No module named test01.login
+.
+----------------------------------------------------------------------
+Ran 1 test in 23.297s
+
+OK
+.
+----------------------------------------------------------------------
+Ran 1 test in 13.808s
+
+OK
+.
+Time Elapsed: 0:00:19.626000
